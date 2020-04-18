@@ -1,0 +1,26 @@
+{
+  "name": "blackdeadbotclient",
+  "version": "1.0.1",
+  "description": "BlackDeadSkulls Discord Client",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "BlackDeadSkulll <hygames.mcpe@gmail.com>",
+  "license": "MIT",
+  "keywords": [
+    "discordclient",
+    "client",
+    "BlackDeadBot Client"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/theequaq/blackdeadbotclient.git"
+  },
+  "bugs": {
+    "url": "https://github.com/theequaq/blackdeadbotclient/issues"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.0"
+  }
+}
