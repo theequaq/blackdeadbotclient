@@ -16,4 +16,4 @@ TOKEN="My-Super-Secret-Token"
 PREFIX="!"
 ```
 example
-### [Index.js](https://github.com/theequaq/blackdeadbotclient/test)
+### [Index.js](https://github.com/theequaq/blackdeadbotclient/tree/master/test)
